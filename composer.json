@@ -1,0 +1,18 @@
+{
+    "name": "xzb/ci3-hooks",
+    "description": "CI3 钩子 扩展",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "寻",
+            "email": "xunzhibin@jnexpert.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Xzb\\Ci3\\Hooks\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
