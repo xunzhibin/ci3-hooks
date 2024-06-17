@@ -11,7 +11,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "Xzb\\Ci3\\Hooks\\": "src/"
+            "Xzb\\Ci3\\Hooks\\": ""
         }
     },
     "minimum-stability": "dev"
